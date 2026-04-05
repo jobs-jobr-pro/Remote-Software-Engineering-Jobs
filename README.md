@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Software engineer Jobs 2026
 
-<sub><small>Last updated: Apr 04, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Apr 05, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Software engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[AgileEngine](https://agileengine.com/)** | **[Software Engineer ID55640](https://jobr.pro/job/40168341/software-engineer-id55640?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Usaquen, Colombia | Remote | Apr 04 |
 | **[Forvis](https://www.forvis.com/)** | **[Lead Software Engineer](https://jobr.pro/job/40224821/lead-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | US-Remote | Remote | Apr 04 |
 | **[Pinterest](https://www.pinterest.com/)** | **[Staff Software Engineer, Activation Team](https://jobr.pro/job/40221505/staff-software-engineer-activation-team?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | San Francisco, CA, US; Remote, US | Remote | Apr 03 |
 | **[IonQ](https://ionq.co/)** | **[Senior Manager, Software Engineering](https://jobr.pro/job/40223671/senior-manager-software-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote, US | Remote | Apr 03 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[EverAI](https://www.everai.ai/)** | **[Senior Software Engineer (Full Remote - Georgia)](https://jobr.pro/job/40221921/senior-software-engineer-full-remote-georgia?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Georgia | Remote | Apr 03 |
 | **[EverAI](https://www.everai.ai/)** | **[Senior Software Engineer (Full Remote - France)](https://jobr.pro/job/40221922/senior-software-engineer-full-remote-france?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | France | Remote | Apr 03 |
 | **[EverAI](https://www.everai.ai/)** | **[Senior Software Engineer (Full Remote - Finland)](https://jobr.pro/job/40221923/senior-software-engineer-full-remote-finland?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Finland | Remote | Apr 03 |
-| **[EverAI](https://www.everai.ai/)** | **[Senior Software Engineer (Full Remote - Estonia)](https://jobr.pro/job/40221924/senior-software-engineer-full-remote-estonia?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Estonia | Remote | Apr 03 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 26 companies | Avg salary: 222k  
+**Current Stats:** 50 jobs | 100% remote | 27 companies | Avg salary: 222k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, aws, ai, docker  
