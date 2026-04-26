@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Software Engineer Jobs — 2026
 
-<sub><small>Last updated: Apr 25, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Apr 26, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **remote Software Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs).
@@ -24,6 +24,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Cricut](https://cricut.com/)** | **[Senior Software Engineer (Android)](https://jobr.pro/job/40493490/senior-software-engineer-android?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | South Jordan, UT, United States | Remote | Apr 25 |
 | **[Mixpanel](https://mixpanel.com/)** | **[Senior Software Engineer, AI Product Insights](https://jobr.pro/job/40493497/senior-software-engineer-ai-product-insights?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | San Francisco (Hybrid) | Remote | Apr 25 |
 | **[Mixpanel](https://mixpanel.com/)** | **[Software Engineer, Backend](https://jobr.pro/job/40493498/software-engineer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | San Francisco (Hybrid) | Remote | Apr 25 |
+| **[BJAK](https://bjak.my/en/about-us)** | **[시니어 소프트웨어 엔지니어, JavaScript/TypeScript (Senior Software Engineer) (Remote)](https://jobr.pro/job/40497635/-javascripttypescript-senior-software-engineer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Seoul, Korea | Remote | Apr 25 |
+| **[BJAK](https://bjak.my/en/about-us)** | **[Lead Software Engineer, JavaScript/TypeScript (Remote)](https://jobr.pro/job/40497642/lead-software-engineer-javascripttypescript-remote?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Indonesia | Remote | Apr 25 |
+| **[BJAK](https://bjak.my/en/about-us)** | **[Lead Software Engineer (Remote)](https://jobr.pro/job/40497643/lead-software-engineer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | China | Remote | Apr 25 |
+| **[BJAK](https://bjak.my/en/about-us)** | **[Senior Software Engineer, JavaScript/TypeScript (Remote)](https://jobr.pro/job/40497662/senior-software-engineer-javascripttypescript-remote?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Hong Kong | Remote | Apr 25 |
 | **[Abnormal](https://abnormalsecurity.com)** | **[Software Engineer 1, Dev Accelerator](https://jobr.pro/job/40491976/software-engineer-1-dev-accelerator?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote - Canada | Remote | Apr 24 |
 | **[Housecall Pro](https://www.housecallpro.com/)** | **[Architect Software Engineer - Brazil](https://jobr.pro/job/40492403/architect-software-engineer-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Brazil | Remote | Apr 24 |
 | **[Antenna](https://www.antenna.live/)** | **[Senior Software Engineer](https://jobr.pro/job/40492405/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | LATAM or Remote | Remote | Apr 24 |
@@ -40,6 +44,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[SpecterOps](https://specterops.io/)** | **[Sr. Services Software Engineer-Go](https://jobr.pro/job/40492454/sr-services-software-engineer-go?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote, United States | Remote | Apr 24 |
 | **[SpecterOps](https://specterops.io/)** | **[Sr. UI Software Engineer](https://jobr.pro/job/40492455/sr-ui-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote, United States | Remote | Apr 24 |
 | **[GoFasti](https://www.gofasti.com/)** | **[1073- Mid-level software engineer](https://jobr.pro/job/40492459/1073-mid-level-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote | Remote | Apr 24 |
+| **[Natera](https://natera.com)** | **[AI Staff Software Engineer](https://jobr.pro/job/40506096/ai-staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | US Remote | Remote | Apr 24 |
 | **[Wellmark Blue Cross and Blue Shield](https://www.wellmark.com)** | **[Sr. Full Stack Digital Services Software Engineer #1821](https://jobr.pro/job/40491014/sr-full-stack-digital-services-software-engineer-1821?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Des Moines, IA, United States | Remote | Apr 24 |
 | **[Horizon3.ai](https://www.horizon3.ai/)** | **[Staff Software Engineer, Attack](https://jobr.pro/job/40492465/staff-software-engineer-attack?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | US, Remote | Remote | Apr 24 |
 | **[RR Donnelley](https://www.rrd.com)** | **[IL0207-Software Engineer II](https://jobr.pro/job/40491015/il0207-software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Warrenville, IL, United States | Remote | Apr 24 |
@@ -58,18 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Unknown Company](https://jobgether.com)** | **[Software Engineering Lead - REMOTE](https://jobr.pro/job/40483882/software-engineering-lead-remote?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Massachusetts | Remote | Apr 24 |
 | **[Unknown Company](https://jobgether.com)** | **[Remote Lead Software Engineering Manager](https://jobr.pro/job/40483665/remote-lead-software-engineering-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Minnesota | Remote | Apr 24 |
 | **[Unknown Company](https://jobgether.com)** | **[Lead Software Engineering Manager (Remote)](https://jobr.pro/job/40483527/lead-software-engineering-manager-remote?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Idaho | Remote | Apr 24 |
-| **[Unknown Company](https://jobgether.com)** | **[Remote Sr. Software Engineering Manager](https://jobr.pro/job/40483698/remote-sr-software-engineering-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Columbia | Remote | Apr 24 |
-| **[Unknown Company](https://jobgether.com)** | **[Sr. Software Engineering Manager (Remote)](https://jobr.pro/job/40483899/sr-software-engineering-manager-remote?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Colorado | Remote | Apr 24 |
-| **[Unknown Company](https://jobgether.com)** | **[Senior Software Engineering Manager - REMOTE](https://jobr.pro/job/40483876/senior-software-engineering-manager-remote?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Florida | Remote | Apr 24 |
-| **[Unknown Company](https://jobgether.com)** | **[Remote Software Engineering Manager](https://jobr.pro/job/40483689/remote-software-engineering-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | California | Remote | Apr 24 |
-| **[Unknown Company](https://jobgether.com)** | **[Software Engineering Manager (Remote)](https://jobr.pro/job/40483884/software-engineering-manager-remote?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Connecticut | Remote | Apr 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 30 companies | Avg salary: 6.000017222339445e+100k  
+**Current Stats:** 50 jobs | 100% remote | 31 companies | Avg salary: 6.000017222339445e+100k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** react, python, aws, ai, docker  
+**Trending Skills:** react, python, aws, ai, javascript  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
