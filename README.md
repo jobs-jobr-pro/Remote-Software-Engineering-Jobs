@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Software Engineer Jobs — 2026
 
-<sub><small>Last updated: May 16, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 17, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **remote Software Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs).
@@ -45,6 +45,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Planet]()** | **[Senior Software Engineer, Front-End - D&I Solutions](https://jobr.pro/job/40805223/senior-software-engineer-front-end-di-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | United States, Remote | Remote | May 15 |
 | **[Heidi AI]()** | **[Senior Software Engineer](https://jobr.pro/job/40806254/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Ireland | Remote | May 15 |
 | **[Dropbox]()** | **[Staff Fullstack Software Engineer, Core Performance](https://jobr.pro/job/40804346/staff-fullstack-software-engineer-core-performance?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote - US: All locations | Remote | May 15 |
+| **[Mango Languages]()** | **[Sr. Agentic AI Software Engineer](https://jobr.pro/job/40817205/sr-agentic-ai-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Farmington Hills or Remote (US only) | Remote | May 15 |
 | **[Airbnb]()** | **[Software Engineer, Payments](https://jobr.pro/job/40805311/software-engineer-payments?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote - USA | Remote | May 15 |
 | **[SmithRx]()** | **[Senior Staff Software Engineer, Platform](https://jobr.pro/job/40804071/senior-staff-software-engineer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote | Remote | May 15 |
 | **[Voleon]()** | **[Staff Software Engineer, Batch and Realtime Streaming](https://jobr.pro/job/40806693/staff-software-engineer-batch-and-realtime-streaming?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote, United States | Remote | May 15 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[d-Matrix]()** | **[Senior Staff AI/ML System Software Engineer](https://jobr.pro/job/40804372/senior-staff-aiml-system-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Santa Clara | Remote | May 15 |
 | **[Motional]()** | **[Senior Software Engineer - AI Data Applications](https://jobr.pro/job/40804022/senior-software-engineer-ai-data-applications?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote U.S. | Remote | May 15 |
 | **[OpenX]()** | **[Software Engineer III ( JS/TS)](https://jobr.pro/job/40809344/software-engineer-iii-jsts?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Krakow | Remote | May 15 |
-| **[540]()** | **[Software Engineer](https://jobr.pro/job/40803868/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote | Remote | May 15 |
 
 ---
 
