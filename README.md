@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Software Engineer Jobs — 2026
 
-<sub><small>Last updated: May 17, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 18, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **remote Software Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Unity Technologies]()** | **[Software Engineer — Unity Studio (Web-based 3D Editor)](https://jobr.pro/job/40832699/software-engineer-unity-studio-web-based-3d-editor?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote, Germany | Remote | May 18 |
+| **[Abnormal]()** | **[Software Engineer 2](https://jobr.pro/job/40829979/software-engineer-2?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote - Singapore | Remote | May 18 |
+| **[Pavago]()** | **[Senior Full Stack Software Engineer](https://jobr.pro/job/40830348/senior-full-stack-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Colombia | Remote | May 18 |
+| **[Pavago]()** | **[Software Engineer](https://jobr.pro/job/40826530/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Pakistan | Remote | May 17 |
 | **[The AI-Native Platform for Audit & Advisory]()** | **[Staff Software Engineer, App Platform](https://jobr.pro/job/40812017/staff-software-engineer-app-platform?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | San Francisco, CA or Remote (USA) | Remote | May 16 |
 | **[Backblaze External Website]()** | **[Software Engineer Backend - Foundation Services](https://jobr.pro/job/40811030/software-engineer-backend-foundation-services?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote - Argentina; Remote - Colombia ; Remote - Costa Rica ; Remote - Mexico | Remote | May 16 |
 | **[Careers]()** | **[Software Engineer - Team Growth](https://jobr.pro/job/40810339/software-engineer-team-growth?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | U.S. (Remote) | Remote | May 15 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[d-Matrix]()** | **[Staff Software Engineer - Kernels](https://jobr.pro/job/40804376/staff-software-engineer-kernels?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Santa Clara | Remote | May 15 |
 | **[Twilio]()** | **[Software Engineer (L2) Segment Team](https://jobr.pro/job/40800573/software-engineer-l2-segment-team?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote - US | Remote | May 15 |
 | **[d-Matrix]()** | **[Software Engineer, Staff - SIMD Kernels](https://jobr.pro/job/40804374/software-engineer-staff-simd-kernels?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Santa Clara | Remote | May 15 |
-| **[d-Matrix]()** | **[Principal Software Engineer - SDK & Lowering Stack](https://jobr.pro/job/40804293/principal-software-engineer-sdk-lowering-stack?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Santa Clara | Remote | May 15 |
-| **[d-Matrix]()** | **[Senior Staff AI/ML System Software Engineer](https://jobr.pro/job/40804372/senior-staff-aiml-system-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Santa Clara | Remote | May 15 |
-| **[Motional]()** | **[Senior Software Engineer - AI Data Applications](https://jobr.pro/job/40804022/senior-software-engineer-ai-data-applications?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote U.S. | Remote | May 15 |
-| **[OpenX]()** | **[Software Engineer III ( JS/TS)](https://jobr.pro/job/40809344/software-engineer-iii-jsts?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Krakow | Remote | May 15 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 36 companies | Avg salary: 6.97369473684529e+222k  
+**Current Stats:** 50 jobs | 100% remote | 37 companies | Avg salary: 7.794129411768265e+198k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
