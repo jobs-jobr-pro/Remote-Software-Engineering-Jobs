@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Software Engineer Jobs — 2026
 
-<sub><small>Last updated: May 20, 2026 at 15:43 UTC</small></sub>
+<sub><small>Last updated: May 20, 2026 at 16:53 UTC</small></sub>
 
 This repository collects curated **remote Software Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Chainguard](https://chainguard.dev)** | **[Senior Software Engineer (Guarded OS)](https://jobr.pro/job/40866494/senior-software-engineer-guarded-os?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | United States - Remote | Remote | May 20 |
+| **[Confluent](https://confluent.io)** | **[Senior Software Engineer II](https://jobr.pro/job/40866411/senior-software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | New York, New York | Remote | May 20 |
+| **[Twilio](https://twilio.com)** | **[Senior Manager Software Engineering](https://jobr.pro/job/40866552/senior-manager-software-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote - Ireland | Remote | May 20 |
 | **[Redis](https://redis.io/)** | **[C/C++ Software Engineer - CRDT - Bulgaria](https://jobr.pro/job/40865219/cc-software-engineer-crdt-bulgaria?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Bulgaria | Remote | May 20 |
 | **[Perk](https://Perk.com)** | **[Senior Software Engineer - Billing (VAT & Invoicing)](https://jobr.pro/job/40864707/senior-software-engineer-billing-vat-invoicing?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Barcelona | Remote | May 20 |
 | **[Pave Bank](https://pavebank.com/en)** | **[Senior Software Engineer](https://jobr.pro/job/40859954/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | London, United Kingdom | Remote | May 20 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Abnormal](https://abnormal.ai)** | **[Software Engineer II - Model Platform](https://jobr.pro/job/40848191/software-engineer-ii-model-platform?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote - Canada | Remote | May 19 |
 | **[Sentry](https://link.sentry.com/Sentry-HomePage)** | **[Senior Software Engineer (Frameworks), JavaScript SDK](https://jobr.pro/job/40855707/senior-software-engineer-frameworks-javascript-sdk?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | San Francisco, California | Remote | May 19 |
 | **[Sentry](https://link.sentry.com/Sentry-HomePage)** | **[Senior Software Engineer (Node), JavaScript SDK](https://jobr.pro/job/40855706/senior-software-engineer-node-javascript-sdk?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | San Francisco, California | Remote | May 19 |
-| **[SentiLink](https://sentilink.com)** | **[Senior Software Engineer ( SRE )](https://jobr.pro/job/40851031/senior-software-engineer-sre-?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Bangalore | Remote | May 19 |
-| **[Redis](https://redis.io/)** | **[Software Engineering Team lead - Redis Flex - Bulgaria](https://jobr.pro/job/40847572/software-engineering-team-lead-redis-flex-bulgaria?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Bulgaria | Remote | May 19 |
-| **[Pindrop](https://pindrop.com)** | **[Senior Software Engineer, Protect (Contract Position)](https://jobr.pro/job/40855750/senior-software-engineer-protect-contract-position?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Ukraine - Remote | Remote | May 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 44 companies | Avg salary: 9.223337233339453e+172k  
+**Current Stats:** 50 jobs | 100% remote | 44 companies | Avg salary: 7.48387989355216e+178k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai, javascript  
