@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Software Engineer Jobs — 2026
 
-<sub><small>Last updated: May 24, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 25, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **remote Software Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Inflection.io](https://inflection.io)** | **[SDE2 - Senior Software Engineer](https://jobr.pro/job/40924646/sde2-senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | India Remote | Remote | May 25 |
+| **[Notion](https://notion.com)** | **[Software Engineer, Infrastructure](https://jobr.pro/job/40924126/software-engineer-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Hyderabad, India | Remote | May 25 |
+| **[Zscaler](https://zscaler.com)** | **[Sr. Staff Software Development Engineer (Security Platform and Data Pipelines)](https://jobr.pro/job/40922723/sr-staff-software-development-engineer-security-platform-and-data-pipelines?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote - India | Remote | May 25 |
+| **[Pavago](https://www.pavago.co)** | **[Software Engineer - Go Specialist](https://jobr.pro/job/40919351/software-engineer-go-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Argentina | Remote | May 24 |
 | **[Zipline](https://ziplinelogistics.com/)** | **[Principal Software Engineer, Application Software (Remote)](https://jobr.pro/job/40913825/principal-software-engineer-application-software-remote?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote in USA | Remote | May 23 |
 | **[Zipline](https://ziplinelogistics.com/)** | **[Sr. Staff Full Stack Software Engineer, Application Software (Remote)](https://jobr.pro/job/40913827/sr-staff-full-stack-software-engineer-application-software-remote?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote in USA | Remote | May 23 |
 | **[Zipline](https://ziplinelogistics.com/)** | **[Staff Full Stack Software Engineer, Application Software (Remote)](https://jobr.pro/job/40913828/staff-full-stack-software-engineer-application-software-remote?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote in USA | Remote | May 23 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Evio](https://ev.io)** | **[Software Engineer](https://jobr.pro/job/40906076/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Denver (Remote) | Remote | May 22 |
 | **[OpenX](https://openx.com)** | **[Senior Software Engineer in Test IV (Python) - Fixed Term](https://jobr.pro/job/40909533/senior-software-engineer-in-test-iv-python-fixed-term?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Krakow | Remote | May 22 |
 | **[Ubiminds](https://ubiminds.com/)** | **[Senior Software Engineer - Python + React (521)](https://jobr.pro/job/40901578/senior-software-engineer-python-react-521?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Brazil | Remote | May 22 |
-| **[Payrails](https://www.payrails.com)** | **[Senior Software Engineer](https://jobr.pro/job/40907276/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Cairo | Remote | May 22 |
-| **[Home page](https://playson.com/)** | **[Principal software engineer](https://jobr.pro/job/40898777/principal-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | European Union | Remote | May 22 |
-| **[Astronomer](https://astronomer.io)** | **[Software Engineer - Airflow Infrastructure](https://jobr.pro/job/40904300/software-engineer-airflow-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | New York City | Remote | May 22 |
-| **[Perk](https://Perk.com)** | **[Senior Software Engineer - Policy & Control](https://jobr.pro/job/40899595/senior-software-engineer-policy-control?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Barcelona | Remote | May 22 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 35 companies | Avg salary: 1.111112111112111e+157k  
+**Current Stats:** 50 jobs | 100% remote | 35 companies | Avg salary: 1.1538471923087309e+151k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, python, ai, javascript  
