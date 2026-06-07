@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Software Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 07, 2026 at 13:21 UTC</small></sub>
+<sub><small>Last updated: Jun 07, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **remote Software Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Counsel Health](https://counselhealth.com)** | **[Senior Software Engineer (Frontend)](https://jobr.pro/job/41068462/senior-software-engineer-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | New York Office (Flatiron) | Remote | Jun 07 |
 | **[Adaptyv](https://adaptyvbio.com)** | **[Head of Software Engineering](https://jobr.pro/job/41068100/head-of-software-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Lausanne / Hybrid / Remote | Remote | Jun 06 |
 | **[OpenAI](https://openai.com/)** | **[Software Engineer, Cloud Agents](https://jobr.pro/job/41061775/software-engineer-cloud-agents?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | San Francisco | Remote | Jun 06 |
 | **[The People Group](https://www.hibyron.com)** | **[Executive Assistant to the CEO - Software Engineering Company - Remote](https://jobr.pro/job/41062857/executive-assistant-to-the-ceo-software-engineering-company-remote?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Virginia, United States | Remote | Jun 06 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Foundation Health](https://www.foundationhealth.com/)** | **[Staff Software Engineer](https://jobr.pro/job/41059484/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | London | Remote | Jun 05 |
 | **[Foundation Health](https://www.foundationhealth.com/)** | **[Senior Software Engineer](https://jobr.pro/job/41059483/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Orlando, FL | Remote | Jun 05 |
 | **[Synthesia](http://www.synthesia.it)** | **[Senior Software Engineer, Accessibility](https://jobr.pro/job/41051289/senior-software-engineer-accessibility?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Europe | Remote | Jun 05 |
-| **[Airwallex SG](https://www.airwallex.com/sg)** | **[Staff Software Engineer, AI Tooling](https://jobr.pro/job/41051686/staff-software-engineer-ai-tooling?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | US - San Francisco | Remote | Jun 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 43 companies | Avg salary: 1.6041676666673458e+139k  
+**Current Stats:** 50 jobs | 100% remote | 43 companies | Avg salary: 8.958349375009999e+138k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
