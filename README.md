@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Software Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 08, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 08, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **remote Software Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs).
@@ -13,15 +13,28 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Tyba](https://www.tyba.ai/)** | **[Senior Product Software Engineer (Python)](https://jobr.pro/job/41073193/senior-product-software-engineer-python?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | SF Bay Area, Chicago, LA or Remote | Remote | Jun 08 |
+| **[Verve](https://vervecoffee.com)** | **[Senior Software Engineer (contract)](https://jobr.pro/job/41072673/senior-software-engineer-contract?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Brazil - Remote | Remote | Jun 08 |
+| **[Airwallex SG](https://www.airwallex.com/sg)** | **[Staff Software Engineer, New Products](https://jobr.pro/job/41073304/staff-software-engineer-new-products?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | UK - London | Remote | Jun 08 |
+| **[Airwallex SG](https://www.airwallex.com/sg)** | **[Senior Software Engineer, New Products](https://jobr.pro/job/41073303/senior-software-engineer-new-products?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | UK - London | Remote | Jun 08 |
+| **[Docker](http://www.docker.com)** | **[Staff Software Engineer, Infrastructure](https://jobr.pro/job/41072290/staff-software-engineer-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Canada | Remote | Jun 08 |
+| **[Lean TECHniques](https://leantechniques.com/)** | **[Software Engineer - .NET, Angular, React](https://jobr.pro/job/41072722/software-engineer-net-angular-react?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote | Remote | Jun 08 |
+| **[Wellhub](https://wellhub.com/en-us/)** | **[Senior Backend Software Engineer \| BASE](https://jobr.pro/job/41072406/senior-backend-software-engineer-base?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Brazil (Remote) | Remote | Jun 08 |
+| **[Cresta](https://cresta.com)** | **[Senior Software Engineer, Backend (Taiwan)](https://jobr.pro/job/41071835/senior-software-engineer-backend-taiwan?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Taiwan (Remote) | Remote | Jun 08 |
+| **[Alta Ares](https://www.altaares.com/)** | **[Embedded Software Engineer](https://jobr.pro/job/41072168/embedded-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Toulouse | Remote | Jun 08 |
 | **[Kaseya Careers](https://kaseya.com)** | **[Principal Software Engineer](https://jobr.pro/job/41071261/principal-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Canada, Remote | Remote | Jun 08 |
 | **[Kaseya Careers](https://kaseya.com)** | **[Senior Manager, Software Engineering](https://jobr.pro/job/41071263/senior-manager-software-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Canada, Remote | Remote | Jun 08 |
 | **[Kaseya Careers](https://kaseya.com)** | **[Senior Director, Software Engineering](https://jobr.pro/job/41071262/senior-director-software-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Canada, Remote | Remote | Jun 08 |
+| **[Primer](https://primer.io/)** | **[Senior Software Engineer - Protection](https://jobr.pro/job/41071467/senior-software-engineer-protection?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Poland | Remote | Jun 08 |
 | **[Tailor](http://www.tailor.co)** | **[Software Engineer \[就業型インターンシップ\]](https://jobr.pro/job/41071145/software-engineer-?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Tokyo | Remote | Jun 08 |
+| **[Confluent](https://confluent.io)** | **[Staff Software Engineer I - Confluent Platform](https://jobr.pro/job/41071886/staff-software-engineer-i-confluent-platform?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | IN Remote India | Remote | Jun 08 |
 | **[Evolve AI Ltd](https://www.evolvegrp.io//)** | **[Recruitment Partner (Quant & Software Engineering) - Remote / Global](https://jobr.pro/job/41071149/recruitment-partner-quant-software-engineering-remote-global?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | remote | Remote | Jun 08 |
+| **[Cribl](https://cribl.io)** | **[Senior Software Engineer](https://jobr.pro/job/41072302/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote - United States | Remote | Jun 08 |
 | **[Abnormal](https://abnormal.ai)** | **[Software Engineer 2](https://jobr.pro/job/41070557/software-engineer-2?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote - Singapore | Remote | Jun 08 |
+| **[Treatwell](https://www.workable.com/)** | **[Full Stack Software Engineer - Payments B2B](https://jobr.pro/job/41072189/full-stack-software-engineer-payments-b2b?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Spain | Remote | Jun 08 |
 | **[Cribl](https://cribl.io)** | **[Staff Software Engineer, Cribl AI](https://jobr.pro/job/41070229/staff-software-engineer-cribl-ai?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote - United States | Remote | Jun 07 |
 | **[Relay Financial](https://relayfi.com)** | **[Senior Software Engineer](https://jobr.pro/job/41068992/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Kitchener-Waterloo, ON | Remote | Jun 07 |
-| **[Campus](https://campus.edu/)** | **[Full-Stack Software Engineer, AI-Powered Internal Tools](https://jobr.pro/job/41071229/full-stack-software-engineer-ai-powered-internal-tools?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Campus NYC | Remote | Jun 07 |
+| **[Campus](https://campus.edu/)** | **[Full-Stack Software Engineer, AI-Powered Internal Tools](https://jobr.pro/job/41071507/full-stack-software-engineer-ai-powered-internal-tools?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Campus NYC | Remote | Jun 07 |
 | **[Counsel Health](https://counselhealth.com)** | **[Senior Software Engineer (Frontend)](https://jobr.pro/job/41068462/senior-software-engineer-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | New York Office (Flatiron) | Remote | Jun 07 |
 | **[Adaptyv](https://adaptyvbio.com)** | **[Head of Software Engineering](https://jobr.pro/job/41068100/head-of-software-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Lausanne / Hybrid / Remote | Remote | Jun 06 |
 | **[OpenAI](https://openai.com/)** | **[Software Engineer, Cloud Agents](https://jobr.pro/job/41061775/software-engineer-cloud-agents?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | San Francisco | Remote | Jun 06 |
@@ -50,26 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Aledade](https://aledade.com)** | **[Senior Software Engineer I- (Forward Deployed AI)](https://jobr.pro/job/41058297/senior-software-engineer-i-forward-deployed-ai?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote, United States | Remote | Jun 05 |
 | **[Ditto](http://ditto.fi/)** | **[Senior Software Engineer, Platform](https://jobr.pro/job/41054279/senior-software-engineer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote (Atlanta, Austin, San Francisco, Seattle) | Remote | Jun 05 |
 | **[Smart Working Solutions]()** | **[Lead Software Engineer (Full Stack & AI) (Remote, Full-Time) \[AS251\]](https://jobr.pro/job/41060212/lead-software-engineer-full-stack-ai-remote-full-time-as251?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | India | Remote | Jun 05 |
-| **[Torc Robotics](https://torc.ai)** | **[Staff Software Engineer - Behaviors](https://jobr.pro/job/41054933/staff-software-engineer-behaviors?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Ann Arbor, MI, Blacksburg, VA, Fort Worth, TX, Remote - U.S | Remote | Jun 05 |
-| **[Solink Corp.](https://solink.com)** | **[Software Engineer, COOP](https://jobr.pro/job/41059856/software-engineer-coop?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Ottawa Office | Remote | Jun 05 |
-| **[Zip](https://ziprecruiter.com)** | **[Software Engineer, Forward Deployed (All Levels)](https://jobr.pro/job/41055911/software-engineer-forward-deployed-all-levels?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | San Francisco | Remote | Jun 05 |
-| **[RVO Health](https://rvohealth.com)** | **[Senior Software Engineer, TypeScript / Node.js](https://jobr.pro/job/41060002/senior-software-engineer-typescript-nodejs?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote- US | Remote | Jun 05 |
-| **[loveholidays](https://loveholidays.ie)** | **[Principal Software Engineer](https://jobr.pro/job/41059228/principal-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | London | Remote | Jun 05 |
-| **[Home](https://southgeeks.com)** | **[Staff Software Engineer (AI-Native Full-Stack)](https://jobr.pro/job/41064702/staff-software-engineer-ai-native-full-stack?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote | Remote | Jun 05 |
-| **[Nexxen](https://nexxenn.com)** | **[Senior Software Engineer](https://jobr.pro/job/41057049/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | New York, NY | Remote | Jun 05 |
-| **[Tailscale](https://tailscale.com)** | **[Software Engineer, Networking (Edge)](https://jobr.pro/job/41056887/software-engineer-networking-edge?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote (United States) | Remote | Jun 05 |
-| **[Tailscale](https://tailscale.com)** | **[Software Engineer, Networking (Dataplane)](https://jobr.pro/job/41056886/software-engineer-networking-dataplane?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote (United States) | Remote | Jun 05 |
-| **[Home page](https://playson.com/)** | **[Senior Software Engineer (Game Engine)](https://jobr.pro/job/41063381/senior-software-engineer-game-engine?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | European Union | Remote | Jun 05 |
-| **[Swile](https://swile.co)** | **[Senior Software Engineer, Backend (Payments)](https://jobr.pro/job/41057646/senior-software-engineer-backend-payments?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Brasil | Remote | Jun 05 |
-| **[Heidi AI](https://www.heidihealth.com/)** | **[Senior Software Engineer](https://jobr.pro/job/41055215/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | London | Remote | Jun 05 |
-| **[Heidi AI](https://www.heidihealth.com/)** | **[Senior Software Engineer - (Clinical AI) - Ireland](https://jobr.pro/job/41055221/senior-software-engineer-clinical-ai-ireland?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Ireland | Remote | Jun 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 42 companies | Avg salary: 4.00001060000704e+144k  
+**Current Stats:** 50 jobs | 100% remote | 41 companies | Avg salary: 8.695659909006041e+133k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** ai  
+**Trending Skills:** react, python, ai  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
