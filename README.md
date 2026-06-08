@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Software Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 08, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 08, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **remote Software Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Cribl](https://cribl.io)** | **[Staff Software Engineer, Cribl AI](https://jobr.pro/job/41070229/staff-software-engineer-cribl-ai?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote - United States | Remote | Jun 07 |
 | **[Relay Financial](https://relayfi.com)** | **[Senior Software Engineer](https://jobr.pro/job/41068992/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Kitchener-Waterloo, ON | Remote | Jun 07 |
 | **[Counsel Health](https://counselhealth.com)** | **[Senior Software Engineer (Frontend)](https://jobr.pro/job/41068462/senior-software-engineer-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | New York Office (Flatiron) | Remote | Jun 07 |
 | **[Adaptyv](https://adaptyvbio.com)** | **[Head of Software Engineering](https://jobr.pro/job/41068100/head-of-software-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Lausanne / Hybrid / Remote | Remote | Jun 06 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Redis](https://redis.io/)** | **[Principal Golang Software Engineer - AI Services - Bulgaria](https://jobr.pro/job/41053330/principal-golang-software-engineer-ai-services-bulgaria?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Bulgaria | Remote | Jun 05 |
 | **[Hawk-Eye Innovations](https://hawkeyeinnovations.com)** | **[Full Stack SDET (Software Development Engineer in Test)](https://jobr.pro/job/41055755/full-stack-sdet-software-development-engineer-in-test?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Budapest, Hungary | Remote | Jun 05 |
 | **[Foundation Health](https://www.foundationhealth.com/)** | **[Staff Software Engineer](https://jobr.pro/job/41059484/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | London | Remote | Jun 05 |
-| **[Foundation Health](https://www.foundationhealth.com/)** | **[Senior Software Engineer](https://jobr.pro/job/41059483/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Orlando, FL | Remote | Jun 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 43 companies | Avg salary: 7.0400086000154e+144k  
+**Current Stats:** 50 jobs | 100% remote | 44 companies | Avg salary: 1.0192314461546731e+151k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
