@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Software Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 14, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 14, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **remote Software Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs).
@@ -16,6 +16,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[DevIQ](https://deviq.com)** | **[Lead AI-Native Software Engineer](https://jobr.pro/job/41187715/lead-ai-native-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Denver, CO, United States | Remote | Jun 13 |
 | **[Chainguard](https://chainguard.dev)** | **[Senior Software Engineer (Sustaining Automation)](https://jobr.pro/job/41186927/senior-software-engineer-sustaining-automation?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Canada - Remote; Europe - Remote; United States - Remote | Remote | Jun 13 |
 | **[Sutherland](https://www.sutherlandglobal.com)** | **[.NET Software Engineer](https://jobr.pro/job/41186833/net-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Bogotá, //BOGOTA, Colombia | Remote | Jun 13 |
+| **[Euphoric Global](https://www.euphoric.global)** | **[Software Engineer (Applied AI)](https://jobr.pro/job/41189520/software-engineer-applied-ai?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Portugal | Remote | Jun 13 |
 | **[nomic](https://www.nomic.bio)** | **[Software Engineer (Mid to Sr Levels)](https://jobr.pro/job/41187249/software-engineer-mid-to-sr-levels?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote (Canada or US) | Remote | Jun 13 |
 | **[Abridge](https://www.abridge.com)** | **[Senior / Staff Software Engineer, Agentic Engineering](https://jobr.pro/job/41185907/senior-staff-software-engineer-agentic-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | SF Office | Remote | Jun 13 |
 | **[ProNexus](http://pronexus.ai)** | **[Senior Software Engineer](https://jobr.pro/job/41189139/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | United States | Remote | Jun 13 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Flock%20safety]()** | **[Senior Software Engineer, Search](https://jobr.pro/job/41178806/senior-software-engineer-search?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote - USA | Remote | Jun 12 |
 | **[finanzen.net GmbH](https://finanzennet.gmbh)** | **[Senior Backend Software Engineer (m/w/d)](https://jobr.pro/job/41173357/senior-backend-software-engineer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Karlsruhe, BW, Germany | Remote | Jun 12 |
 | **[ilek](https://www.ilekis.com)** | **[Senior Software Engineer - Développeur.se backend H/F (Toulouse, Bordeaux ou Remote)](https://jobr.pro/job/41180780/senior-software-engineer-developpeurse-backend-hf-toulouse-bordeaux-ou-remote?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Toulouse | Remote | Jun 12 |
-| **[Samsara](https://www.samsara.com)** | **[Staff Software Engineer, Routing](https://jobr.pro/job/41172415/staff-software-engineer-routing?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote - CA | Remote | Jun 12 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 40 companies | Avg salary: 6.034489103458276e+164k  
+**Current Stats:** 50 jobs | 100% remote | 40 companies | Avg salary: 6.03448910345207e+164k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
