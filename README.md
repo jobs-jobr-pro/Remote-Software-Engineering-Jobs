@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Software Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 13, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 14, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **remote Software Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs).
@@ -13,8 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[DevIQ](https://deviq.com)** | **[Lead AI-Native Software Engineer](https://jobr.pro/job/41187715/lead-ai-native-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Denver, CO, United States | Remote | Jun 13 |
 | **[Chainguard](https://chainguard.dev)** | **[Senior Software Engineer (Sustaining Automation)](https://jobr.pro/job/41186927/senior-software-engineer-sustaining-automation?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Canada - Remote; Europe - Remote; United States - Remote | Remote | Jun 13 |
 | **[Sutherland](https://www.sutherlandglobal.com)** | **[.NET Software Engineer](https://jobr.pro/job/41186833/net-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Bogotá, //BOGOTA, Colombia | Remote | Jun 13 |
+| **[nomic](https://www.nomic.bio)** | **[Software Engineer (Mid to Sr Levels)](https://jobr.pro/job/41187249/software-engineer-mid-to-sr-levels?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote (Canada or US) | Remote | Jun 13 |
 | **[Abridge](https://www.abridge.com)** | **[Senior / Staff Software Engineer, Agentic Engineering](https://jobr.pro/job/41185907/senior-staff-software-engineer-agentic-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | SF Office | Remote | Jun 13 |
 | **[Gramian Consulting Group](https://gramianconsulting.com)** | **[Senior Software Engineer (Cloud Platform & Java) - REMOTE](https://jobr.pro/job/41185961/senior-software-engineer-cloud-platform-java-remote?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | France | Remote | Jun 13 |
 | **[Perplexity AI](https://www.perplexity.com)** | **[Member of Technical Staff (Software Engineer, Capabilities)](https://jobr.pro/job/41182434/member-of-technical-staff-software-engineer-capabilities?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | San Francisco | Remote | Jun 12 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Fuze Health](https://fuzehealth.com)** | **[Future Opportunities: Staff Software Engineer - Fuze Health](https://jobr.pro/job/41183751/future-opportunities-staff-software-engineer-fuze-health?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote, United States | Remote | Jun 12 |
 | **[Hawk-Eye Innovations](https://hawkeyeinnovations.com)** | **[Frontend Software Engineer](https://jobr.pro/job/41176032/frontend-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Hungary, Budapest | Remote | Jun 12 |
 | **[Experian](https://www.experian.com)** | **[Senior Software Engineer - Python](https://jobr.pro/job/41172099/senior-software-engineer-python?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | London, England, United Kingdom | Remote | Jun 12 |
-| **[Engineering Productivity and Intelligence](https://www.faros.ai)** | **[Lead Software Engineer - Backend](https://jobr.pro/job/41180079/lead-software-engineer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | San Mateo | Remote | Jun 12 |
-| **[Branch](https://www.branchapp.com)** | **[Senior Software Engineer, Platform](https://jobr.pro/job/41184392/senior-software-engineer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote, US | Remote | Jun 12 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 40 companies | Avg salary: 6.133343000013501e+166k  
+**Current Stats:** 50 jobs | 100% remote | 40 companies | Avg salary: 5.833339466676333e+166k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, ai  
