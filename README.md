@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Software Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 14, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 14, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **remote Software Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[monday.com](https://monday.com)** | **[Senior Software Engineer - Big Brain](https://jobr.pro/job/41190852/senior-software-engineer-big-brain?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Tel Aviv | Remote | Jun 14 |
 | **[DevIQ](https://deviq.com)** | **[Lead AI-Native Software Engineer](https://jobr.pro/job/41187715/lead-ai-native-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Denver, CO, United States | Remote | Jun 13 |
 | **[Chainguard](https://chainguard.dev)** | **[Senior Software Engineer (Sustaining Automation)](https://jobr.pro/job/41186927/senior-software-engineer-sustaining-automation?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Canada - Remote; Europe - Remote; United States - Remote | Remote | Jun 13 |
 | **[Sutherland](https://www.sutherlandglobal.com)** | **[.NET Software Engineer](https://jobr.pro/job/41186833/net-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Bogotá, //BOGOTA, Colombia | Remote | Jun 13 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Chime Financial, Inc](https://chimecentral.org)** | **[Software Engineer, Infrastructure](https://jobr.pro/job/41176047/software-engineer-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote, USA | Remote | Jun 12 |
 | **[Flock%20safety]()** | **[Senior Software Engineer, Search](https://jobr.pro/job/41178806/senior-software-engineer-search?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote - USA | Remote | Jun 12 |
 | **[finanzen.net GmbH](https://finanzennet.gmbh)** | **[Senior Backend Software Engineer (m/w/d)](https://jobr.pro/job/41173357/senior-backend-software-engineer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Karlsruhe, BW, Germany | Remote | Jun 12 |
-| **[ilek](https://www.ilekis.com)** | **[Senior Software Engineer - Développeur.se backend H/F (Toulouse, Bordeaux ou Remote)](https://jobr.pro/job/41180780/senior-software-engineer-developpeurse-backend-hf-toulouse-bordeaux-ou-remote?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Toulouse | Remote | Jun 12 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 40 companies | Avg salary: 6.03448910345207e+164k  
+**Current Stats:** 50 jobs | 100% remote | 40 companies | Avg salary: 6.250006571432499e+159k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
