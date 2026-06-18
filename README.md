@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Software Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 18, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 18, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **remote Software Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs).
@@ -13,13 +13,23 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[KMS Technology](https://crn.pl)** | **[Senior Java Software Engineer (Spring/Azure), based in Da Nang](https://jobr.pro/job/41252385/senior-java-software-engineer-springazure-based-in-da-nang?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Da Nang City, , Vietnam | Remote | Jun 18 |
+| **[Endava](https://www.endava.com)** | **[Junior C/C++ Software Engineer (Linux Systems)](https://jobr.pro/job/41252347/junior-cc-software-engineer-linux-systems?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Ho Chi Minh City, Ho Chi Minh City, Vietnam | Remote | Jun 18 |
+| **[KMS Technology](https://crn.pl)** | **[Senior Java Software Engineer (Java/Spring/Azure/AWS)](https://jobr.pro/job/41252388/senior-java-software-engineer-javaspringazureaws?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Ho Chi Minh, , Vietnam | Remote | Jun 18 |
+| **[OrderMesh](https://ordermesh.com)** | **[Software Development Engineer in Test (SDET)](https://jobr.pro/job/41249719/software-development-engineer-in-test-sdet?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Peru | Remote | Jun 18 |
+| **[{{year}} Copyright](https://compa.com)** | **[Senior Software Engineer (all teams)](https://jobr.pro/job/41250196/senior-software-engineer-all-teams?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Engineering Sites- Orange County, Denver, Seattle, San Francisco | Remote | Jun 17 |
+| **[OpenAI](https://openai.com)** | **[Full Stack Software Engineer, Agent Enablement](https://jobr.pro/job/41249527/full-stack-software-engineer-agent-enablement?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | San Francisco | Remote | Jun 17 |
+| **[Zip](https://zipspecialties.com)** | **[Senior Software Engineer, Online Storage](https://jobr.pro/job/41250838/senior-software-engineer-online-storage?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | San Francisco | Remote | Jun 17 |
 | **[Renesas Electronics](https://www.renesas.com)** | **[Software Engineer](https://jobr.pro/job/41245114/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Austin, TEXAS, United States | Remote | Jun 17 |
 | **[SquareTrade](http://www.squaretrade.com)** | **[Software Engineering Manager – Customer Applications](https://jobr.pro/job/41245998/software-engineering-manager-customer-applications?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Dallas, TX, United States | Remote | Jun 17 |
 | **[Sutherland](https://www.sutherlandglobal.com)** | **[Senior Backend Software Engineer (Node.js and Java) \| Remote \| Bulgaria](https://jobr.pro/job/41245145/senior-backend-software-engineer-nodejs-and-java-remote-bulgaria?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Sofia, //SOFIA CITY PROVINCE, Bulgaria | Remote | Jun 17 |
 | **[Astroscale U.S.](https://astroscaleus.com)** | **[Senior Software Test Engineer](https://jobr.pro/job/41243709/senior-software-test-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Denver, CO, United States | Remote | Jun 17 |
+| **[Limble CMMS](https://limble.com)** | **[Software Engineer II - Integrations](https://jobr.pro/job/41247649/software-engineer-ii-integrations?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Charlotte, North Carolina | Remote | Jun 17 |
 | **[Cribl](https://cribl.io)** | **[Sr Software Engineer, Storage](https://jobr.pro/job/41243754/sr-software-engineer-storage?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote - United States | Remote | Jun 17 |
 | **[Software Mind](https://softwaremind.com)** | **[\[8NW\] Senior Software Engineer (Ruby + React)](https://jobr.pro/job/41242567/8nw-senior-software-engineer-ruby-react?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | San José, San José Province, Costa Rica | Remote | Jun 17 |
+| **[Cority](https://cority.com)** | **[Senior Software Engineer](https://jobr.pro/job/41249490/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Canada | Remote | Jun 17 |
 | **[Confluent](https://confluent.io)** | **[Staff Software Engineer](https://jobr.pro/job/41246350/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | CA Remote British Columbia | Remote | Jun 17 |
+| **[Poshmark](https://poshmark.com)** | **[Sr. Software Engineer, Cloud Platform](https://jobr.pro/job/41248972/sr-software-engineer-cloud-platform?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | US California (Redwood City) - Office | Remote | Jun 17 |
 | **[Scale%20army%20careers]()** | **[Backend Software Engineer](https://jobr.pro/job/41245310/backend-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Egypt | Remote | Jun 17 |
 | **[Dropbox](https://dropbox.com)** | **[Principal Software Engineer, Core Sharing & Collaboration](https://jobr.pro/job/41243069/principal-software-engineer-core-sharing-collaboration?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote - Canada: Select locations | Remote | Jun 17 |
 | **[AtoB](https://www.atob.com)** | **[Software Engineer - Infra + Data](https://jobr.pro/job/41238535/software-engineer-infra-data?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Bangalore | Remote | Jun 17 |
@@ -53,20 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Entain](https://www.entaingroup.com)** | **[Software Engineer III- ServiceNow](https://jobr.pro/job/41230646/software-engineer-iii-servicenow?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Hyderabad, Telangana, India | Remote | Jun 17 |
 | **[LinkedIn](https://www.linkedin.com)** | **[Staff Software Engineer - Enterprise Infrastructure](https://jobr.pro/job/41229802/staff-software-engineer-enterprise-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Bengaluru, KA, India | Remote | Jun 17 |
 | **[LinkedIn](https://www.linkedin.com)** | **[Sr. Software Engineer - Enterprise Infrastructure](https://jobr.pro/job/41229803/sr-software-engineer-enterprise-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Bengaluru, KA, India | Remote | Jun 17 |
-| **[Jitterbit](https://www.jitterbit.com)** | **[Senior Software Engineer C++ - Backend - Remote](https://jobr.pro/job/41228058/senior-software-engineer-c-backend-remote?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Bengaluru, KA, India | Remote | Jun 17 |
-| **[Alpaca](https://alpaca.markets)** | **[Senior Software Engineer - Advisory Suite](https://jobr.pro/job/41233395/senior-software-engineer-advisory-suite?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote - Europe | Remote | Jun 17 |
-| **[BRINC Drones](http://www.brinc.it)** | **[Software Engineer, Test (SDET)](https://jobr.pro/job/41243813/software-engineer-test-sdet?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Seattle, WA | Remote | Jun 17 |
-| **[SPD Technology](https://spd.tech)** | **[Senior Software Development Engineer](https://jobr.pro/job/41237040/senior-software-development-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Ukraine | Remote | Jun 17 |
-| **[MotherDuck](https://motherduck.com)** | **[Software Engineer - Backend](https://jobr.pro/job/41234487/software-engineer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Seattle | Remote | Jun 16 |
-| **[Epia Neuro](https://epianeuro.com)** | **[Staff Software Engineer](https://jobr.pro/job/41235007/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Alameda HQ | Remote | Jun 16 |
-| **[SandboxAQ](https://sandboxaq.com)** | **[Staff Software Engineer, Life Sciences](https://jobr.pro/job/41233312/staff-software-engineer-life-sciences?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | United States | Remote | Jun 16 |
-| **[KMS Technology](https://kmstech.co.kr)** | **[Senior Software Engineer (React Native)](https://jobr.pro/job/41224026/senior-software-engineer-react-native?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Guadalajara, Jal., Mexico | Remote | Jun 16 |
-| **[PeopleLoop](https://www.peopleloop.com)** | **[Staff Software Engineer](https://jobr.pro/job/41224556/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | United States | Remote | Jun 16 |
-| **[Ramp](https://www.rampant.tv)** | **[Software Engineer, International](https://jobr.pro/job/41234027/software-engineer-international?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | London | Remote | Jun 16 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 45 companies | Avg salary: 1.2666677000013668e+84k  
+**Current Stats:** 50 jobs | 100% remote | 44 companies | Avg salary: 1.3750025312514374e+90k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, aws, ai  
