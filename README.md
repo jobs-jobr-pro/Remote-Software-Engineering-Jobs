@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Software Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 20, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 20, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **remote Software Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs).
@@ -13,6 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[iHerb](https://ar.iherb.com)** | **[Sr. Software Engineer II - Catalog](https://jobr.pro/job/41297544/sr-software-engineer-ii-catalog?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | United States of America - Remote / Home Office | Remote | Jun 20 |
+| **[iHerb](https://ar.iherb.com)** | **[Sr. Software Engineer II - AI](https://jobr.pro/job/41297543/sr-software-engineer-ii-ai?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | United States of America - Remote / Home Office | Remote | Jun 20 |
+| **[Commure](https://www.commure.com)** | **[Senior Software Engineer - AI Integrations](https://jobr.pro/job/41298421/senior-software-engineer-ai-integrations?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Mountain View, CA | Remote | Jun 19 |
+| **[Siena AI](https://siena.onl)** | **[Software Engineer, Platform Experience](https://jobr.pro/job/41296969/software-engineer-platform-experience?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Argentina | Remote | Jun 19 |
+| **[Klue](https://klue.com)** | **[Senior Software Engineer, Agents](https://jobr.pro/job/41298082/senior-software-engineer-agents?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Vancouver, British Columbia | Remote | Jun 19 |
 | **[NielsenIQ](https://nielseniq.com)** | **[Senior Software Test Engineer](https://jobr.pro/job/41291106/senior-software-test-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Ciudad de México, DIF, Mexico | Remote | Jun 19 |
 | **[Category Labs](https://www.category.xyz)** | **[Senior Software Engineer, Formal Verification](https://jobr.pro/job/41291862/senior-software-engineer-formal-verification?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote | Remote | Jun 19 |
 | **[Accelerate ‎Your Digital Transformation](https://www.truelogic.io)** | **[Senior iOS Engineer - Software](https://jobr.pro/job/41289033/senior-ios-engineer-software?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | LatAm | Remote | Jun 19 |
@@ -34,6 +39,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Arista Networks](https://www.arista.com)** | **[Software Engineer - Platform Team - Greece](https://jobr.pro/job/41283190/software-engineer-platform-team-greece?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Athens, , Greece | Remote | Jun 19 |
 | **[Nexthink](https://nexthink.com)** | **[Platform Software Engineer](https://jobr.pro/job/41283085/platform-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Madrid, MD, Spain | Remote | Jun 19 |
 | **[Eurofins](https://www.eurofins.de)** | **[Senior Software engineer](https://jobr.pro/job/41282287/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Bengaluru, KA, India | Remote | Jun 19 |
+| **[loveholidays](https://loveholidays.ie)** | **[Senior Software Engineer](https://jobr.pro/job/41297636/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | London | Remote | Jun 19 |
 | **[Wise](https://wise.com)** | **[Senior Software Engineer - AML](https://jobr.pro/job/41283077/senior-software-engineer-aml?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Tallinn, , Estonia | Remote | Jun 19 |
 | **[ODION GmbH]()** | **[(Senior) Software Engineer // Odoo Developer (m/w/d)](https://jobr.pro/job/41282096/senior-software-engineer-odoo-developer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Saarbrücken, SL, Germany | Remote | Jun 19 |
 | **[finanzen.net GmbH](https://finanzennet.gmbh)** | **[Senior Software Engineer (w/m/d)](https://jobr.pro/job/41282276/senior-software-engineer-wmd?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Karlsruhe, BW, Germany | Remote | Jun 19 |
@@ -57,16 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Hayden AI](http://www.hayden.ai)** | **[Senior Software Engineer - Device](https://jobr.pro/job/41282538/senior-software-engineer-device?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | San Francisco HQ Office | Remote | Jun 18 |
 | **[Cint](https://www.cint.com)** | **[Sr. Software Engineer II - (DSM Integrations Team)](https://jobr.pro/job/41271791/sr-software-engineer-ii-dsm-integrations-team?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote, Remote, Czechia | Remote | Jun 18 |
 | **[carsales](https://www.carsales.com.au)** | **[Senior Software Engineer](https://jobr.pro/job/41269519/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Melbourne, VIC, Australia | Remote | Jun 18 |
-| **[carsales](https://www.carsales.com.au)** | **[Software Engineer](https://jobr.pro/job/41269520/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Melbourne, VIC, Australia | Remote | Jun 18 |
-| **[Category Labs](https://www.category.xyz)** | **[Senior Software Engineer, Compiler](https://jobr.pro/job/41291859/senior-software-engineer-compiler?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote | Remote | Jun 18 |
-| **[Discord](https://discord.com)** | **[Senior Software Engineer, Front-End Infrastructure](https://jobr.pro/job/41272810/senior-software-engineer-front-end-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | San Francisco Bay Area or Remote (U.S.) | Remote | Jun 18 |
-| **[LinkedIn](https://www.linkedin.com)** | **[Staff Software Engineer](https://jobr.pro/job/41269586/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Mountain View, CA, United States | Remote | Jun 18 |
-| **[LucidLink](https://www.lucidlink.com)** | **[Senior Software Engineer, Backend](https://jobr.pro/job/41281834/senior-software-engineer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Sofia Office | Remote | Jun 18 |
-| **[Chainguard](https://chainguard.dev)** | **[Principal Software Engineer (Athena)](https://jobr.pro/job/41281626/principal-software-engineer-athena?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | United Kingdom - Remote | Remote | Jun 18 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 37 companies | Avg salary: 2.50000935002e+54k  
+**Current Stats:** 50 jobs | 100% remote | 39 companies | Avg salary: 2.1363657727294543e+60k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, aws, ai  
