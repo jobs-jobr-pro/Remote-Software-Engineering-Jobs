@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Software Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 20, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 20, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **remote Software Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs).
@@ -17,6 +17,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Outmarket AI](https://outmarket.ai)** | **[Software Engineer](https://jobr.pro/job/41299645/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote US | Remote | Jun 20 |
 | **[Outmarket AI](https://outmarket.ai)** | **[Senior Software Engineer](https://jobr.pro/job/41299644/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote US | Remote | Jun 20 |
 | **[Outmarket AI](https://outmarket.ai)** | **[Principal Software Engineer](https://jobr.pro/job/41299641/principal-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote US | Remote | Jun 20 |
+| **[TensorWave](https://tensorwave.com)** | **[Software Engineer, Front End](https://jobr.pro/job/41302027/software-engineer-front-end?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Las Vegas, Nevada | Remote | Jun 20 |
 | **[iHerb](https://ar.iherb.com)** | **[Sr. Software Engineer II - Catalog](https://jobr.pro/job/41297544/sr-software-engineer-ii-catalog?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | United States of America - Remote / Home Office | Remote | Jun 20 |
 | **[iHerb](https://ar.iherb.com)** | **[Sr. Software Engineer II - AI](https://jobr.pro/job/41297543/sr-software-engineer-ii-ai?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | United States of America - Remote / Home Office | Remote | Jun 20 |
 | **[Commure](https://www.commure.com)** | **[Senior Software Engineer - AI Integrations](https://jobr.pro/job/41298421/senior-software-engineer-ai-integrations?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Mountain View, CA | Remote | Jun 19 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[LinkedIn](https://www.linkedin.com)** | **[Staff Software Engineer - Enterprise Infrastructure](https://jobr.pro/job/41276260/staff-software-engineer-enterprise-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Bengaluru, KA, India | Remote | Jun 19 |
 | **[LinkedIn](https://www.linkedin.com)** | **[Sr. Software Engineer - Enterprise Infrastructure](https://jobr.pro/job/41276261/sr-software-engineer-enterprise-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Bengaluru, KA, India | Remote | Jun 19 |
 | **[KMS Technology](https://crn.pl)** | **[Senior Java Software Engineer (Java/Spring/Azure/AWS), based in Da Nang](https://jobr.pro/job/41276224/senior-java-software-engineer-javaspringazureaws-based-in-da-nang?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Da Nang City, , Vietnam | Remote | Jun 19 |
-| **[Homebase](https://joinhomebase.com)** | **[Senior Software Engineer, AI Systems](https://jobr.pro/job/41289966/senior-software-engineer-ai-systems?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | San Francisco | Remote | Jun 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 34 companies | Avg salary: 3.357146214289143e+36k  
+**Current Stats:** 50 jobs | 100% remote | 34 companies | Avg salary: 3.9166705833373335e+30k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, ai  
