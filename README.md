@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Software Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 22, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 22, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **remote Software Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Nexthink](https://nexthink.com)** | **[Software Engineer 3](https://jobr.pro/job/41312388/software-engineer-3?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Bengaluru, KA, India | Remote | Jun 22 |
 | **[Outmarket AI](https://outmarket.ai)** | **[Staff Software Engineer](https://jobr.pro/job/41299646/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote US | Remote | Jun 20 |
 | **[Outmarket AI](https://outmarket.ai)** | **[Software Engineer](https://jobr.pro/job/41299645/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote US | Remote | Jun 20 |
 | **[Outmarket AI](https://outmarket.ai)** | **[Senior Software Engineer](https://jobr.pro/job/41299644/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote US | Remote | Jun 20 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Delivery Hero](https://www.talabat.com)** | **[Principal Backend Software Engineer](https://jobr.pro/job/41278731/principal-backend-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Singapore, , Singapore | Remote | Jun 19 |
 | **[LinkedIn](https://www.linkedin.com)** | **[Staff Software Engineer - Enterprise Infrastructure](https://jobr.pro/job/41276260/staff-software-engineer-enterprise-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Bengaluru, KA, India | Remote | Jun 19 |
 | **[LinkedIn](https://www.linkedin.com)** | **[Sr. Software Engineer - Enterprise Infrastructure](https://jobr.pro/job/41276261/sr-software-engineer-enterprise-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Bengaluru, KA, India | Remote | Jun 19 |
-| **[KMS Technology](https://crn.pl)** | **[Senior Java Software Engineer (Java/Spring/Azure/AWS), based in Da Nang](https://jobr.pro/job/41276224/senior-java-software-engineer-javaspringazureaws-based-in-da-nang?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Da Nang City, , Vietnam | Remote | Jun 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 34 companies | Avg salary: 3.9166705833373335e+30k  
+**Current Stats:** 50 jobs | 100% remote | 33 companies | Avg salary: 3.9166705833373335e+30k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** aws, ai  
