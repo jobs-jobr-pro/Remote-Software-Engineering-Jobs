@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Software Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 29, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 29, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **remote Software Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Wise](https://wise.com)** | **[Sr Software Engineer I - Fincrime](https://jobr.pro/job/41463022/sr-software-engineer-i-fincrime?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | London, England, United Kingdom | Remote | Jun 29 |
 | **[BJAK](https://bjak.my)** | **[iOS Software Engineer](https://jobr.pro/job/41457755/ios-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Malaysia | Remote | Jun 28 |
 | **[BJAK](https://bjak.my)** | **[Android Software Engineer](https://jobr.pro/job/41457760/android-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | United States | Remote | Jun 28 |
 | **[KMS Technology](https://crn.pl)** | **[Java Software Engineer (Spring/Azure/AWS)](https://jobr.pro/job/41455869/java-software-engineer-springazureaws?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Ho Chi Minh, , Vietnam | Remote | Jun 28 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Wellmark, Inc.](https://www.wellmark.com)** | **[Senior Software Engineer - Enterprise Data Services](https://jobr.pro/job/41427163/senior-software-engineer-enterprise-data-services?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Des Moines, IA, United States | Remote | Jun 26 |
 | **[Bosch Group](https://www.bosch.com)** | **[Senior AI Software Engineer](https://jobr.pro/job/41426987/senior-ai-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Plymouth, MI, United States | Remote | Jun 26 |
 | **[Jellyfish](https://jellyfish.com)** | **[Senior Software Engineer, Data Products](https://jobr.pro/job/41448094/senior-software-engineer-data-products?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Remote - US | Remote | Jun 26 |
-| **[Sysdig](https://www.sysdig.com)** | **[Staff Software Engineer (Cloud Provider Team)](https://jobr.pro/job/41431963/staff-software-engineer-cloud-provider-team?utm_source=github&utm_medium=repo&utm_campaign=github-remote-software-engineering-jobs)** | Flexible - Italy | Remote | Jun 26 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 38 companies | Avg salary: 1.0185192962972364e+156k  
+**Current Stats:** 50 jobs | 100% remote | 38 companies | Avg salary: 3.964295535721785e+161k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** react, aws, ai  
